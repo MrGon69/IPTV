@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="PHaoHoa8" tvg-name="Pháo Hoa 8 - 13/09/2026 20:00" tvg-logo="URL_LOGO" group-title="Pháo Hoa",Pháo Hoa 8 | 13/09/2026 - 6:00
+#EXTINF:-1 tvg-id="PHaoHoa8" tvg-name="Pháo Hoa 8 " tvg-logo="URL_LOGO" group-title="Pháo Hoa",Pháo Hoa
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8
-#EXTINF:-1 tvg-id="GaVang" tvg-name="Gavang - 13/09/2026 - 08:10" tvg-logo="URL_LOGO" group-title="gavang",Ga vang | 13/09/2026 - 08:10
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 tvg-id="Gio Vang" tvg-name="Giovang" tvg-logo="URL_LOGO" group-title="gavang"
-https://eqr2hdarxfliv.vcdn.cloud/1789203457_hd/1789203457_hd@720p.m3u8
+#EXTINF:-1 tvg-id="PHaoHoa8" tvg-name="Pháo Hoa 9" tvg-logo="URL_LOGO" group-title="Pháo Hoa",Pháo Hoa 9
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8
