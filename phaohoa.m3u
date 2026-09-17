@@ -20,4 +20,6 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8
 #EXTINF:-1 tvg-id="PHaoHoa8" tvg-name="Pháo Hoa 11" tvg-logo="https://khandai1.link/images/logo-220.webp" group-title="Pháo Hoa",Pháo Hoa 11
 https://luong.phaohoa.live/live/phaohoa11/index.m3u8
+#EXTINF:-1 tvg-id="PHaoHoa8" tvg-name="Pháo Hoa 1" tvg-logo="https://khandai1.link/images/logo-220.webp" group-title="Pháo Hoa",Pháo Hoa 1
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8
 
